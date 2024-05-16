@@ -49,3 +49,4 @@ else:
 button = st.button("Recommend")
 if(button):
     st.write('You should grow {}'.format(final_prediction))
+st.image(r'Screenshot 2024-04-09 181745.png')
